@@ -1,0 +1,18 @@
+.main-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    width: 315px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.main-card img{
+    width: 280px;
+    height: 280px;
+    margin: 5px;
+    border-radius: 15px;
+}
